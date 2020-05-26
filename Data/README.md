@@ -9,7 +9,7 @@ The required data has been procured from the following sources: \
 5) https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 
 ## Generating Dataset:
-Create an input directory and run the following commands:
+Create an src and input directory and run the following commands in the input directory:
 * `git clone https://github.com/ieee8023/covid-chestxray-dataset.git`
 * `git clone https://github.com/agchung/Figure1-COVID-chestxray-dataset.git`
 * `git clone https://github.com/agchung/Actualmed-COVID-chestxray-dataset.git` 

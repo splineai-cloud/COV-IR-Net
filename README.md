@@ -5,9 +5,9 @@ It was found in early studies that patients present abnormalities in chest radio
 ## Content :
 1. [Requirements](#requirements) to install on your system
 2. [generating COVID dataset](Data/README.md)
-3. Steps for creating, training and evaluation of the [model](Codes/train_eval_inference.md)
+3. Steps for creating, training and evaluation of the [model](Codes/README.md)
 4. [Results](#results)
-5. [Heatmap presentation](docs/models.md)
+5. [Heatmap presentation](heatmaps/README.md)
 
 ## Requirements
 
@@ -46,6 +46,11 @@ The main requirements are listed below:
 
 #### Heatmaps:
 ##### Normal:
+![inception_normal](images/inception_normal.png)
+##### Pneumonia:
+![inception_pneumonia](images/inception_pneumonia.png)
+##### covid:
+![inception_covid](images/inception_covid.png)
 
 
 
@@ -70,3 +75,9 @@ The main requirements are listed below:
 </table></div>
 
 #### Heatmaps
+##### Normal:
+![resnet_normal](images/resnet_normal.png)
+##### Pneumonia:
+![resnet_pneumonia](images/resnet_pneumonia.png)
+##### covid:
+![resnet_covid](images/resnet_covid.png)

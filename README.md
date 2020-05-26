@@ -7,7 +7,7 @@ It was found in early studies that patients present abnormalities in chest radio
 2. [generating COVID dataset](instructions/DataProcessing.md)
 3. Steps for creating, training and evaluation of the [model](instructions/ModelPreparation.md)
 4. [Results](#results)
-5. [Heatmap presentation](Codes/heatmap_Github.ipynb)
+5. [Heatmap](Codes/heatmap_Github.ipynb)
 
 ## Requirements
 

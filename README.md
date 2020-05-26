@@ -22,6 +22,7 @@ The main requirements are listed below:
 * Shutil
 * tqdm 4.45.0 
 
+Additonal requirement:
 * Jupyter
 
 

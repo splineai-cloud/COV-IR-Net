@@ -13,17 +13,53 @@ It was found in early studies that patients present abnormalities in chest radio
 
 The main requirements are listed below:
 
-* Tested with Tensorflow 1.13 and 1.15
+* Tensorflow 1.15
 * OpenCV 4.2.0
-* Python 3.6
+* Python 3.7
 * Numpy
 * Scikit-Learn
 * Matplotlib
 * Shutil
-* tqdm 4.45.0 
+* Tqdm 4.45.0 
+* Jupyter notebook
 
-Additonal requirement:
-* Jupyter
+## Results
+
+### Inception-V3:
+![inception](images/inception_ConfusionMatrix.png)
+
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <th class="tg-7btt" colspan="3">Sensitivity (%)</th>
+  </tr>
+  <tr>
+    <td class="tg-7btt">Normal</td>
+    <td class="tg-7btt">Pneumonia</td>
+    <td class="tg-7btt">COVID-19</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">91.3</td>
+    <td class="tg-c3ow">91.1</td>
+    <td class="tg-c3ow">86</td>
+  </tr>
+</table></div>
+
+### Resnet:
+![resnet](images/resnet_ConfusionMatrix.png)
 
 
-
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <th class="tg-7btt" colspan="3">Sensitivity (%)</th>
+  </tr>
+  <tr>
+    <td class="tg-7btt">Normal</td>
+    <td class="tg-7btt">Pneumonia</td>
+    <td class="tg-7btt">COVID-19</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">98</td>
+    <td class="tg-c3ow">83</td>
+    <td class="tg-c3ow">73</td>
+  </tr>
+</table></div>

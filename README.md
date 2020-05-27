@@ -8,6 +8,7 @@ It was found in early studies that patients present abnormalities in chest radio
 3. Steps for creating, training and evaluation of the [model](instructions/ModelPreparation.md)
 4. [Results](#results)
 5. [Heatmap](Codes/heatmap_Github.ipynb)
+6. [models](instructions/models.md)
 
 ## Requirements
 

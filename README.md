@@ -3,8 +3,8 @@ The coronavirus outbreak came to light on December 31, 2019 when China informed 
 It was found in early studies that patients present abnormalities in chest radiography images that are characteristic of those infected with COVID-19. We detect such features to classify the X-ray images as Normal , Pneumonia and Covid.
 
 ## Biodata:
-I am a highschool student, machine learning and deep learning entusiast.
-This is my summer project based on the ongoing pandemic COVID-19.\
+I am a highschool student, machine learning and deep learning entusiast. \
+This is my summer project based on the ongoing pandemic of COVID-19.\
 All suggetions are welcome. \
 Contact me by mail - hamza11223300@gmail.com
 

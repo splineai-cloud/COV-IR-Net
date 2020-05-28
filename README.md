@@ -4,8 +4,8 @@ It was found in early studies that patients present abnormalities in chest radio
 
 ## Biodata:
 I am a highschool student, machine learning and deep learning entusiast.
-This is my summer project based on the ongoing pandemic COVID-19.
-All suggetions are welcome
+This is my summer project based on the ongoing pandemic COVID-19.\
+All suggetions are welcome. \
 Contact me by mail - hamza11223300@gmail.com
 
 ## Content :

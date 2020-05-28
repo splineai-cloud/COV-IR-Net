@@ -1,2 +1,2 @@
 # Models
-The inception and resnet can be downloaded [here](https://drive.google.com/drive/folders/1km86HM6Ffr0nAR2wVtHuf-XDoXCRwd9k?usp=sharing)
+The inception and resnet models can be downloaded [here](https://drive.google.com/drive/folders/1km86HM6Ffr0nAR2wVtHuf-XDoXCRwd9k?usp=sharing)

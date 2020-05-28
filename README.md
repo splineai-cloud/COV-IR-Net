@@ -1,11 +1,15 @@
 # COV-IR-Net
-The coronavirus outbreak came to light on December 31, 2019 when China informed the WHO of a cluster of cases of pneumonia of an unknown cause in Wuhan City in Hubei Province. Subsequently the disease spread to more Provinces in China, and to the rest of the world. The WHO has now declared it a pandemic. The virus has been named SARS-CoV-2 and the disease is now called COVID-19. \
+The coronavirus outbreak came to light on December 31, 2019 when China informed the WHO of a cluster of cases of pneumonia of an unknown cause in Wuhan City in Hubei Province. Subsequently, the disease spread to more Provinces in China, and the rest of the world. The WHO has now declared it a pandemic. The virus has been named SARS-CoV-2 and the disease is now called COVID-19. \
 It was found in early studies that patients present abnormalities in chest radiography images that are characteristic of those infected with COVID-19. We detect such features to classify the X-ray images as Normal , Pneumonia and Covid.
 
+I wanted to explore how transfer learning using Inception and Resnet performs to detect Pneumonia and COVID from X-ray image.
+I found that transfer learning-based models using Inception/Resnet produce extremely good results. I have trained the deep learning model using the RSNA dataset and various COVID data from open-source datasets.  
+
+
 ## Biodata:
-I am a highschool student, machine learning and deep learning entusiast. \
-This is my summer project based on the ongoing pandemic of COVID-19.\
-All suggetions are welcome. \
+I am a high school student, keenly interested in machine learning and deep learning areas. \
+This work I have done as a part of my two months summer internship project in the startup www.spline.ai .\
+All suggestions are welcome. \
 Contact me by mail - hamza11223300@gmail.com
 
 ## Content :

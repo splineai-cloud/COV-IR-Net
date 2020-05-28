@@ -22,4 +22,4 @@ Download the remaining datasets using the links:
 * Run this [code](../Codes/rsna_preprocess-Github.ipynb) for allocating the rsna dataset.
 * Run this [code](../Codes/covid_preprocess-Github.ipynb) for integrating the COVID datset with rsna.
 
-
+### The following arrangement n the input folder can be seen [here](arrangement.md)

@@ -11,7 +11,7 @@ Contact me by mail - hamza11223300@gmail.com
 ## Content :
 1. [Requirements](#requirements) to install on your system
 2. [generating COVID dataset](instructions/DataProcessing.md)
-3. Steps for creating, training and evaluation of the [model](instructions/ModelPreparation.md)
+3. Steps for [creating, training and evaluation](instructions/ModelPreparation.md) of the model
 4. [Results](#results)
 5. [Heatmap](Codes/heatmap_Github.ipynb) generation
 6. [models](instructions/models.md)

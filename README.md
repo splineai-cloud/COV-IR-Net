@@ -13,7 +13,7 @@ Contact me by mail - hamza11223300@gmail.com
 2. [generating COVID dataset](instructions/DataProcessing.md)
 3. Steps for creating, training and evaluation of the [model](instructions/ModelPreparation.md)
 4. [Results](#results)
-5. [Heatmap](Codes/heatmap_Github.ipynb)
+5. [Heatmap](Codes/heatmap_Github.ipynb) generation
 6. [models](instructions/models.md)
 
 ## Requirements
